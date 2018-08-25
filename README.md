@@ -6,3 +6,7 @@ Files contains comments which can be used to understand what each and every func
 1.  DBCONN contains PHP files connecating with the DB.<Br>
 2. Java Communication With PHP contains the java classes which are used to send the GET and POST request to the PHP files.<br>
 3. With Config Credentials folder contains 2 PHP files which demonstrate how to define a contant in PHP and include that PHP file in another PHP file.<br>
+
+
+
+<br><b>TODO:  Readme to be updated</b>
